@@ -44,7 +44,7 @@ The following images show the original, labeled, and segmented EDI OCT images.
 <div>
 
 **Original left EDI OCT**
-<img src="https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/originl_L.png" width="90%"></img>
+<img src="https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/original_L.png" width="90%"></img>
 
 **Labeled left EDI OCT**
 <img src="https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/marked_L.png" width="90%"></img>
