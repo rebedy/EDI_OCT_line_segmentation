@@ -36,3 +36,14 @@ To run the code, use the following command:
 ```bash
 python main.py
 ```
+
+## Results
+
+**Original left EDI OCT**
+![Vizualization1](https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/originl.L.tif?raw=true)
+
+**Labeled left EDI OCT**
+![Vizualization2](https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/marked.L.tif?raw=true)
+
+**Segmented left EDI OCT**
+![Vizualization3](https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/segmented.L.tif?raw=true)

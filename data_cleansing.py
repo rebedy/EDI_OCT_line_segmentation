@@ -2,16 +2,16 @@
 #======================================================================================#
     EDI - OCT Dataset stats
 # ------------------------------------------------------------------------------- #
-        > total # of patients: 221 people
+        > total # of patients: 221 patients
         > total # of slices = 5304 slices
         > size of total dataset: 10,608 (5.20GB)
 
-        > patients for training : 200 people
-        > patients for validation : 15 people
-        > patients for test : 6 people
-        > train + valid data - # of slices : 215 people X 24 slices = 5160 slices
-        >> Training set - # of slices : 200 people X 24 slices = 4800 slices
-        >> Validation set - # of slices : 15 people X 24 slices = 360 slices
+        > patients for training : 200 patients
+        > patients for validation : 15 patients
+        > patients for test : 6 patients
+        > train + valid data - # of slices : 215 patients X 24 slices = 5160 slices
+        >> Training set - # of slices : 200 patients X 24 slices = 4800 slices
+        >> Validation set - # of slices : 15 patients X 24 slices = 360 slices
 
         ---------------
         After crop and all the cleansings...

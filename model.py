@@ -145,8 +145,6 @@ class myUnet(object):
         #model.compile(optimizer=Adamax(lr=0.0001, beta_1=0.9, beta_2=0.999, epsilon=None, decay=0.0),
                                                  # loss= self.dice_coef_loss, metrics=[self.dice_coef])
         #sgd = optimizers.SGD(lr=0.0001, decay=1e-6, momentum=0.9, nesterov=True)
-        #model.compile(optimizer=sgd, loss='mean_squared_error', metrics=['accuracy'])
-            # 이 문제는 절대 categorial_crossentropy를 쓰지 않는다. classification 문제가 아니므로.
         return model
 
 
