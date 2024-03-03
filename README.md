@@ -41,11 +41,16 @@ python main.py
 
 The following images show the original, labeled, and segmented EDI OCT images.
 
-<div>
+<!-- <div>
 <img src="https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/original_L.png" width="30%">
 <img src="https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/marked_L.png" width="30%">
 <img src="https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/segmented_L.png" width="30%">
-</div>
+</div> -->
 
-**[Original left EDI OCT]** **[Labeled left EDI OCT]** **[Segmented left EDI OCT]**
+<p align="center">
+<img src="https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/original_L.png" align="center" width="32%"> | <img src="https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/marked_L.png" align="center" width="30%"> | <img src="https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/segmented_L.png" align="center" width="30%">
+<figcaption align="center">
 
+**Original left EDI OCT**  |  **Labeled left EDI OCT**  |  **Segmented left EDI OCT**  |
+
+</figcaption></p>
