@@ -40,10 +40,10 @@ python main.py
 ## Results
 
 **Original left EDI OCT**
-![Vizualization1](https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/originl.L.png)
+<img src="[original](https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/originl.L.png)">
 
 **Labeled left EDI OCT**
-![Vizualization2](https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/marked.L.png)
+<img src="[marked](https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/marked.L.png)">
 
 **Segmented left EDI OCT**
-![Vizualization3](https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/segmented.L.png)
+<img src="[segmented](https://github.com/rebedy/EDI_OCT_line_segmentation/blob/main/imgs/segmented.L.png)">
