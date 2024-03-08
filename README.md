@@ -3,14 +3,6 @@
 This repository contains the code for **Enhanced depth imaging in spectral-domain optical coherence tomography (EDI SD-OCT)** line segmentation. It is based on the paper [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf%EF%BC%89) by **Olaf Ronneberger, Philipp Fischer, and Thomas Brox**.
 The model is used to segment the lines of layers of the retina in the EDI SD-OCT images.
 
-## Installation
-
-To install the required libraries, run the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 To clean initial dataset, use the following command:
